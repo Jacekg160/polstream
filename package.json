@@ -1,0 +1,9 @@
+{
+  "name": "polstream",
+  "version": "0.3.0",
+  "description": "PolStream - Stremio addon with Polish metadata from TMDB.",
+  "main": "addon.js",
+  "scripts": { "start": "node addon.js" },
+  "engines": { "node": ">=20 <25" },
+  "dependencies": { "stremio-addon-sdk": "^1.8.0" }
+}
