@@ -5,5 +5,5 @@
   "main": "addon.js",
   "scripts": { "start": "node addon.js" },
   "engines": { "node": ">=20 <25" },
-  "dependencies": { "stremio-addon-sdk": "^1.8.0" }
+  "dependencies": { "stremio-addon-sdk": "^1.6.10" }
 }
